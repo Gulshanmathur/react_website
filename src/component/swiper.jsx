@@ -70,6 +70,7 @@ return(
          </SwiperSlide>
         </Swiper>
         <footer className="footer">
+        <p style={{color:"white"}}>This site is based on fully React.js</p>
         <p style={{color:"white"}}>© 2018 Gulshan Mathur @The People Company</p>
         </footer>
      </section>
