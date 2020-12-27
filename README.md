@@ -1,4 +1,4 @@
-Social Media Website Hosted Link https://react-webap.herokuapp.com/
+Website Hosted Link https://react-webap.herokuapp.com/
 
 ### `npm test`
 
